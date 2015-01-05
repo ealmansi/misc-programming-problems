@@ -1,3 +1,4 @@
+// Problem: Closest Point Pair
 // http://www.spoj.com/problems/CLOPPAIR/
 // 13344825	2015-01-04 22:31:18	emilio	Closest Point Pair	accepted	 edit  run	0.45	3.5M	 C++ 4.9
 #include <cstdio>

@@ -1,3 +1,4 @@
+// Problem: Little Pony And Expected Maximum
 // 7355477 	Practice: apaapa 	453A - 35 	GNU C++ 	Accepted 	62 ms 	4 KB 	2014-08-05 23:00:26 	2014-08-05 23:00:26
 // http://codeforces.com/problemset/problem/453/A
 

@@ -1,3 +1,4 @@
+// Problem: Drop The Triples
 // 1548217  3930  Drop the Triples  Accepted  C++ 1.389 2014-09-20 03:54:36
 // https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=294&problem=1931
 

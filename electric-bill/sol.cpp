@@ -1,3 +1,4 @@
+// Problem: Electric Bill
 // 1530726  4476  Electric Bill Accepted  C++ 0.003 2014-08-31 01:37:58
 // https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2477
 

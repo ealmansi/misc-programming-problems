@@ -1,3 +1,4 @@
+// Problem: Little Pony And Sort By Shift
 // 7354963 	Practice: apaapa 	454B - 58 	GNU C++ 	Accepted 	62 ms 	400 KB 	2014-08-05 21:32:08 	2014-08-05 21:32:08
 // http://codeforces.com/problemset/problem/454/B
 

@@ -1,3 +1,4 @@
+// Problem: Cinema Line
 // 7286850  Practice: apaapa  349A - 43   GNU C++   Accepted  92 ms   4 KB  2014-07-29 21:22:20   2014-07-29 21:22:20
 // http://codeforces.com/contest/349/problem/A
 

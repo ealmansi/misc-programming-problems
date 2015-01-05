@@ -1,3 +1,4 @@
+// Problem: Game Strategy
 // 524818 05:16:15  Game Strategy Accepted  2.51 s  C++
 // https://icpc.kattis.com/problems/game
 

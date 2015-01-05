@@ -1,3 +1,4 @@
+// Problem: Quick Answer
 // 1540952 	4188 	Quick answer 	Accepted 	C++ 	0.076 	2014-09-10 21:07:40
 // https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2189
 

@@ -1,3 +1,4 @@
+// Problem: The Game Of 31
 /*
 12320316  2014-09-07 05:18:29 emilio  The game of 31  accepted   edit  run 0.00  2.8M   C++ 4.3.2
 // http://www.spoj.com/problems/GAME31/

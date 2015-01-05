@@ -1,3 +1,4 @@
+// Problem: Isosceles Triangles
 // 1530688  4480  Isosceles Triangles Accepted  C++ 1.589 2014-08-30 23:28:06
 // https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2481
 

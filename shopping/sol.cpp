@@ -1,3 +1,4 @@
+// Problem: Shopping
 // 12320362	2014-09-07 05:32:56	emilio	Shopping	accepted	 edit  run	0.00	2.8M	 C++ 4.3.2
 // http://www.spoj.com/problems/SHOP/cstart=10
 

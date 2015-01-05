@@ -1,3 +1,4 @@
+// Problem: Bitmap
 /*
 12320248	2014-09-07 05:04:19	emilio	Bitmap	accepted	 edit  run	3.43	3.0M	 C++ 4.3.2
 http://www.spoj.com/problems/BITMAP/

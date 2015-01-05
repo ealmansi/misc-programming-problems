@@ -1,3 +1,4 @@
+// Problem: Discounts
 // 7698096 2014-09-07 07:13:07 apaapa  161B - Discounts  GNU C++ Accepted  30 ms 200 KB
 // http://codeforces.com/problemset/problem/161/B
 

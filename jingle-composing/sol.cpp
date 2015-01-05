@@ -1,3 +1,4 @@
+// Problem: Jingle Composing
 // 1530716  4481  Jingle Composing  Accepted  C++ 0.098 2014-08-31 00:32:04
 // https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2482
 

@@ -1,3 +1,4 @@
+// Problem: Galaxy Collision
 // https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=9
 // 1625558	6827	Galaxy collision	Accepted	C++	0.462	2015-01-05 01:32:13
 #include <cstdio>

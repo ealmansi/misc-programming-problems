@@ -1,3 +1,4 @@
+// Problem: Automated Checking Machine
 // https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=658&page=show_problem&problem=4833
 // 1624830	6821	Automated Checking Machine	Accepted	C++11	0.003	2014-12-31 17:50:46
 #include <iostream>

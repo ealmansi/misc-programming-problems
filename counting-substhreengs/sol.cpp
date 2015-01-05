@@ -1,3 +1,4 @@
+// Problem: Counting Substhreengs
 // https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=658&page=show_problem&problem=4835
 // 1625057	6823	Counting substhreengs	Accepted	C++	0.139	2015-01-02 04:48:30
 #include <iostream>

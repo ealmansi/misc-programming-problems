@@ -1,3 +1,4 @@
+// Problem: Counting Rabbits
 // 12325576	2014-09-08 00:23:15	emilio	Counting Rabbits	accepted	 edit  run	0.01	2.6M	 C++ 4.3.2
 // http://www.spoj.com/problems/RABBIT1/
 

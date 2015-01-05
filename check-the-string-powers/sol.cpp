@@ -1,3 +1,4 @@
+// Problem: Check The String Powers
 // 12602724	2014-10-11 20:44:06	emilio	Check the string Powers	accepted	edit  run	0.01	2.8M	C++4.3.2
 // http://www.spoj.com/problems/IITKWPCJ/
 

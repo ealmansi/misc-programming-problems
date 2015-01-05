@@ -1,3 +1,4 @@
+// Problem: Mr Bender And Square
 /*
 7333859  2014-08-03 06:32:57  apaapa   255D - Mr. Bender and Square  GNU C++  Accepted   62 ms   0 KB
 http://codeforces.com/problemset/problem/255/D

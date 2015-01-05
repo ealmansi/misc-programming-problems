@@ -1,3 +1,4 @@
+// Problem: Army Buddies
 // 1538039  5789  Army Buddies  Accepted  C++ 0.252 2014-09-07 03:00:22
 // https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=&problem=3800&mosmsg=Submission+received+with+ID+1538039
 

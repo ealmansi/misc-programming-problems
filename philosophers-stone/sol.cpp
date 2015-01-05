@@ -1,3 +1,4 @@
+// Problem: Philosophers Stone
 // http://www.spoj.com/problems/BYTESM2/
 // 13276519	2014-12-27 01:45:33	emilio	Philosophers Stone	accepted	 edit  run	0.98	2.6M	 C++ 4.0.0-8
 

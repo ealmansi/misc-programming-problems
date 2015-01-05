@@ -1,3 +1,4 @@
+// Problem: Petya And Inequiations
 /*
 7303013  2014-08-01 04:22:45  apaapa   111A - Petya and Inequiations   GNU C++  Accepted   374 ms  0 KB
 http://codeforces.com/problemset/problem/111/A

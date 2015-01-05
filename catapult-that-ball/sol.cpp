@@ -1,3 +1,4 @@
+// Problem: Catapult That Ball
 // 12427289 2014-09-22 04:15:47 emilio  Catapult that ball  accepted   edit  run 1.29  7.1M   C++ 4.3.2
 // http://www.spoj.com/problems/THRBL/cstart=10
 

@@ -1,3 +1,4 @@
+// Problem: Can You Answer These Queries I
 /*
 12320327  2014-09-07 05:22:02 emilio  Can you answer these queries I  accepted   edit  run 3.20  9.1M   C++ 4.3.2
 // http://www.spoj.com/problems/GSS1/

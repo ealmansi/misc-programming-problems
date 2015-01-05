@@ -1,3 +1,4 @@
+// Problem: Stock Exchange
 // 1540951 	4183 	Stock Exchange 	Accepted 	C++ 	0.059 	2014-09-10 21:06:03
 // https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=&problem=2184
 

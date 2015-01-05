@@ -1,3 +1,4 @@
+// Problem: Little Pony And Crystal Mine
 // 7354841 	Practice: apaapa 	454A - 8 	GNU C++ 	Accepted 	15 ms 	4 KB 	2014-08-05 21:13:31 	2014-08-05 21:13:31
 // http://codeforces.com/problemset/problem/454/A
 

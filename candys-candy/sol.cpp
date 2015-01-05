@@ -1,3 +1,4 @@
+// Problem: Candys Candy
 // 1464619  5791  Candy's Candy Accepted  C++11 0.029 2014-06-08 02:28:48
 // https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3802
 

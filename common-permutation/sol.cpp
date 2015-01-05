@@ -1,3 +1,4 @@
+// Problem: Common Permutation
 //  http://www.spoj.com/problems/CPRMT/
 // 13276409	2014-12-27 00:56:34	emilio	Common Permutation	accepted	 edit  run	0.00	2.8M	 C++
 

@@ -1,3 +1,4 @@
+// Problem: Cut Ribbon
 // 7698089  2014-09-07 07:11:15 apaapa  189A - Cut Ribbon GNU C++ Accepted  62 ms 100 KB
 // http://codeforces.com/problemset/problem/189/A
 
