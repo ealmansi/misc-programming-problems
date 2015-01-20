@@ -4,6 +4,7 @@ misc-programming-problems
 Miscellaneous Programming Contest Problems (in C++)
 
 * [4 Values Whose Sum Is 0](https://github.com/ealmansi/misc-programming-problems/blob/master/4-values-whose-sum-is-0/sol.cpp)
+* [A Needle in the Haystack](https://github.com/ealmansi/misc-programming-problems/blob/master/a-needle-in-the-haystack/sol.cpp)
 * [Alice Sieve](https://github.com/ealmansi/misc-programming-problems/blob/master/alice-sieve/sol.cpp)
 * [Another Crisis](https://github.com/ealmansi/misc-programming-problems/blob/master/another-crisis/sol.cpp)
 * [Army Buddies](https://github.com/ealmansi/misc-programming-problems/blob/master/army-buddies/sol.cpp)
