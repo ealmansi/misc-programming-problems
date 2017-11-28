@@ -100,13 +100,6 @@ int main(int argc, char const *argv[])
             {
               ts[num_ts] = lli(round(t2)); ++num_ts;
             }
-            // printf("i j k: %d %d %d\n", i, j, k);
-            // printf("a b c: %lld %lld %lld\n", a, b, c);
-            // printf("discr: %lld\n", discr);
-            // printf("i j k: %d %d %d\n", i, j, k);
-            // printf("a b c: %f %f %f\n", _a, _b, _c);
-            // printf("discr: %f\n", _discr);
-            // printf("%f %f\n", t1, t2);
           }
         }
       }
@@ -125,67 +118,3 @@ int main(int argc, char const *argv[])
 
   return 0;
 }
-
-
-    // for (int i = 0; i < n; ++i)
-    // {
-    //   for (int j = i + 1; j < n; ++j)
-    //   {
-    //     pij.x = dx(j, i);
-    //     pij.y = dy(j, i);
-    //     pij.vx = dvx(j, i);
-    //     pij.vy = dvy(j, i);
-    //     for (int k = j + 1; k < n; ++k)
-    //     {
-    //       pik.y = dy(k, i);
-    //       pik.x = dx(k, i);
-    //       pik.vx = dvx(k, i);
-    //       pik.vy = dvy(k, i);
-          
-    //       a = pij.vx * pik.vy - pij.vy * pik.vx;
-    //       b = pij.vx * pik.y - pij.vy * pik.x + pij.x * pik.vy - pij.y * pik.vx;
-    //       c = pij.x * pik.y - pij.y * pik.x;
-    //       disc = b * b - 4 * a * c;
-
-    //       if (disc >= 0)
-    //       {
-    //         double t1 = (-b + sqrt(disc)) / (2 * a);
-    //         double t2 = (-b - sqrt(disc)) / (2 * a);
-    //         if (t1 >= 0    && abs(t1 - round(t1)) < 1e-5)
-    //           ts.push_back(lli(round(t1)));
-    //         if (t2 >= 0    && abs(t2 - round(t2)) < 1e-5)
-    //           ts.push_back(lli(round(t2)));
-    //       }
-    //     }
-    //   }
-    // }
-
-    // sort(ts.begin(), ts.end());
-    // ts.erase(unique(ts.begin(), ts.end()), ts.end());
-
-    // int result = 0;
-    // double slope[MAX_N];
-    // for (vector<lli>::const_iterator it = ts.begin(); it != ts.end(); ++it)
-    // {
-    //   lli t = *it;
-    //   for(int i = 0; i < n; i++) {
-    //     int ng = 0, ns = 0, more = 0;
-    //     for(int j = i; j < n; j++) {
-    //       double pi_x = double(p[i].x) + double(p[i].vx) * double(t),
-    //               pi_y = double(p[i].y) + double(p[i].vy) * double(t),
-    //               pj_x = double(p[j].x) + double(p[j].vx) * double(t),
-    //               pj_y = double(p[j].y) + double(p[j].vy) * double(t);
-    //       if(pi_y == pj_y) ng++;
-    //       else slope[ns++] = (pi_x - pj_x)/(pi_y - pj_y);
-    //     }
-    //     result = max(ng, result);
-    //     sort(slope, slope + ns);
-    //     for(int j = 0; j < ns; j++) {
-    //       if(!j || slope[j-1] < slope[j]) more = 1;
-    //       else more++;
-    //       result = max(result, more);
-    //     }
-    //   }
-    // }
-    // printf("%d\n", result);
-  // }
